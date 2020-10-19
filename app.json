@@ -1,0 +1,12 @@
+{
+  "name": "dcbare1019",
+  "displayName": "dcbare1019",
+  "expo": {
+    "name": "dcbare1019",
+    "slug": "dcbare1019",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
