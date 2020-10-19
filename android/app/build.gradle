@@ -206,6 +206,9 @@ dependencies {
     } else {
         implementation jscFlavor
     }
+     
+    implementation project(":expo-dev-menu-interface")
+    implementation project(":expo-dev-menu")
 }
 
 // Run this once to be able to run the application with BUCK
